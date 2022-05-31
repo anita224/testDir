@@ -1,0 +1,46 @@
+body {
+	font-family: Arial;
+}
+h1 {
+	color: rgb(250, 0, 0);
+	}
+.new {
+	color: white;
+	background: blue ;
+	margin-bottom: 130px;
+	width: 135px;
+	}
+.new span {
+	color: red;
+	}
+.colortext {
+	color:rgb(250, 0, 0)
+}
+.old {
+	color: white;
+	background: green;
+	height: 100px;
+}
+.old1 {
+	color: white;
+	background: green;
+}
+.list {
+	border: 2px solid white; 
+	color: white;
+}
+.list1 {
+	border: 2px solid black; 
+	color: black;
+}
+.list2 {
+	border: 2px solid black; 
+	color: black;
+}
+.list3 {
+	border: 2px solid black; 
+	color: black;
+}
+.point {
+	text-indent: 80px;
+}
